@@ -1,0 +1,2 @@
+# Barbearia
+Projeto curso técnico
